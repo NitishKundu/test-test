@@ -1,0 +1,6 @@
+git+https://github.com/NitishKundu/agency_swarm.git
+PyYAML==6.0.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+gradio
+huggingface_hub==0.22.2
